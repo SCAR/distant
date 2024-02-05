@@ -38,7 +38,7 @@ the `licence` field for details.
 ## Contents
 
 There is a [table of minimal
-metadata](blob/master/metadata.csv)
+metadata](metadata.csv)
 that describes the layers in the collection. This metadata is intended to
 be sufficient for users to find potential layers of interest, and make
 an initial evaluation of their high-level characteristics such as
