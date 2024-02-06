@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-To suggest a new data set, please attach the raw data files to this issue (drag and drop them onto this comment box, or click the "Paste, drop, or click to add files" below this box), and fill out the metadata fields below.
+To suggest a new data set, please attach the raw data files to this issue (drag and drop them onto this comment box, or click the "Paste, drop, or click to add files" below this box), and fill out the metadata fields below (delete the lines starting with ">" and replace them with your information).
 
 The purpose of this metadata is to allow users to quickly filter the collection and identify data sets likely to be suitable for their needs. We are not going to duplicate all of the metadata and background information provided by the data set's primary publication: we expect that users will consult that reference material directly.
 
