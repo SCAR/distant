@@ -60,8 +60,8 @@ Table of current taxonomic coverage:
 | Alluroteuthis antarcticus       |        1 |
 | Bathyteuthis abyssicola         |        1 |
 | Doryteuthis gahi                |        1 |
-| Euphausia crystallorophias      |        1 |
-| Euphausia superba               |        3 |
+| Euphausia crystallorophias      |        2 |
+| Euphausia superba               |        4 |
 | Euphausia vallentini            |        1 |
 | Galiteuthis glacialis           |        1 |
 | Gonatus antarcticus             |        1 |
@@ -84,4 +84,5 @@ The publications from which model outputs have been sourced:
 | :--------------------------------------------------- | -------: |
 | Cuzin-Roudy J, Irisson J-O, Penot F, Kawaguchi S, …  |        4 |
 | Green DB, Bestley S, Corney SP, Trebilco R, Lehode … |        2 |
+| Merkel B, Trathan P, Thorpe S, Murphy EJ, Pehlke H … |        2 |
 | Xavier JC, Raymond B, Jones DC, Griffiths H (2016) … |       16 |
