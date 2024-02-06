@@ -7,9 +7,16 @@ assignees: ''
 
 ---
 
-To suggest a new data set, please attach the raw data files to this issue (drag and drop them onto this comment box, or click the "Paste, drop, or click to add files" below this box), and fill out the metadata fields below (delete the lines starting with ">" and replace them with your information).
+To suggest a new data set, please provide the data as well as some minimal metadata.
 
+1. If the data files are already publicly available, you can provide the link to them here. Otherwise, data files can be attached the raw data files to this issue (drag and drop them onto this comment box, or click the "Paste, drop, or click to add files" below this box).
+
+2. Fill out the metadata fields below (delete the lines starting with ">" and replace them with your information).
 The purpose of this metadata is to allow users to quickly filter the collection and identify data sets likely to be suitable for their needs. We are not going to duplicate all of the metadata and background information provided by the data set's primary publication: we expect that users will consult that reference material directly.
+
+----
+**Data**
+> Provide the URL to the data, otherwise attach the data files to this issue by dragging and dropping here.
 
 **Taxonomic groups covered**
 > Enter the taxonomic groups, including species names if applicable.
