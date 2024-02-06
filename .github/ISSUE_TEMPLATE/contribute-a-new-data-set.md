@@ -1,7 +1,7 @@
 ---
 name: Contribute a new data set
 about: Use this template to suggest new data layers to be added to the repository.
-title: ''
+title: 'New data set: [AUTHOR YEAR]'
 labels: enhancement
 assignees: ''
 
