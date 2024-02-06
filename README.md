@@ -35,18 +35,23 @@ Ecological Model Output Repository, <doi:10.xxx/yyyy.zzzz>
 Individual data sources might have varying licence conditions: consult
 the `licence` field for details.
 
+## Contribute data\!
+
+If you have generated some model outputs that would be suitable for this
+collection, or are aware of some that we haven’t yet included, please
+[open an issue and let us
+know](https://github.com/SCAR/distant/issues/new/choose).
+
 ## Contents
 
-There is a [table of minimal
-metadata](metadata.csv)
-that describes the layers in the collection. This metadata is intended to
-be sufficient for users to find potential layers of interest, and make
-an initial evaluation of their high-level characteristics such as
-taxonomic details, spatial coverage and resolution, and model output
-types. Our metadata is NOT intended to provide a comprehensive
-description of each layer: users are referred to the original
-publication for that level of detail (see the layer’s `reference`
-entry).
+There is a [table of minimal metadata](metadata.csv) that describes the
+layers in the collection. This metadata is intended to be sufficient for
+users to find potential layers of interest, and make an initial
+evaluation of their high-level characteristics such as taxonomic
+details, spatial coverage and resolution, and model output types. Our
+metadata is NOT intended to provide a comprehensive description of each
+layer: users are referred to the original publication for that level of
+detail (see the layer’s `reference` entry).
 
 Table of current taxonomic coverage:
 
