@@ -9,9 +9,11 @@ assignees: ''
 
 To suggest a new data set, please provide the data as well as some minimal metadata.
 
-1. If the data files are already publicly available, you can provide the link to them here. Otherwise, data files can be attached the raw data files to this issue (drag and drop them onto this comment box, or click the "Paste, drop, or click to add files" below this box).
+1. Please check the [existing issues list](https://github.com/SCAR/distant/issues?q=) first to make sure that this dataset has not already been considered.
 
-2. Fill out the metadata fields below (delete the lines starting with ">" and replace them with your information).
+2. If the data files are already publicly available, provide the link to them below. Otherwise, data files can be attached to this issue (drag and drop them onto this comment box, or click the "Paste, drop, or click to add files" below this box). You will probably need to zip the files first (GitHub only accepts a limited range of file types - but zip files are accepted).
+
+3. Fill out the metadata fields below (delete the lines starting with ">" and replace them with your information).
 The purpose of this metadata is to allow users to quickly filter the collection and identify data sets likely to be suitable for their needs. We are not going to duplicate all of the metadata and background information provided by the data set's primary publication: we expect that users will consult that reference material directly.
 
 ----
