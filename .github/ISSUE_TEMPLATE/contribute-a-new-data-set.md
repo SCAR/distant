@@ -7,9 +7,24 @@ assignees: ''
 
 ---
 
-To suggest a new data set, please attach the raw data files to this issue (drag and drop them onto this comment box, or click the "Paste, drop, or click to add files" below this box), and fill out the metadata fields below (delete the lines starting with ">" and replace them with your information).
+<!-- 
 
-The purpose of this metadata is to allow users to quickly filter the collection and identify data sets likely to be suitable for their needs. We are not going to duplicate all of the metadata and background information provided by the data set's primary publication: we expect that users will consult that reference material directly.
+INSTRUCTIONS TO CONTRIBUTORS - PLEASE READ
+===
+
+To suggest a new data set, please provide the data as well as some minimal metadata.
+
+1. Please check the existing issues list at  https://github.com/SCAR/distant/issues?q= first to make sure that this dataset has not already been considered.
+
+2. If the data files are already publicly available, provide the link below. Otherwise, data files can be attached to this issue.
+
+3. Fill out the metadata fields below (delete the lines starting with ">" and replace them with your information).
+
+  The purpose of this metadata is to allow users to quickly filter the collection and identify data sets likely to be suitable for their needs. We are not going to duplicate all of the metadata and background information provided by the data set's primary publication: we expect that users will consult that reference material directly. 
+-->
+
+**Data**
+> Provide the URL to the data layers, otherwise attach the data files to this issue (drag and drop them onto this comment box, or click the "Paste, drop, or click to add files" below this box). You will probably need to zip the files first - GitHub only accepts a limited range of file types - but zip files are accepted.
 
 **Taxonomic groups covered**
 > Enter the taxonomic groups, including species names if applicable.
