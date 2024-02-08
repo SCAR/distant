@@ -16,7 +16,7 @@ To suggest a new data set, please provide the data as well as some minimal metad
 
 1. Please check the existing issues list at  https://github.com/SCAR/distant/issues?q= first to make sure that this dataset has not already been considered.
 
-2. If the data files are already publicly available, provide the link to them below. Otherwise, data files can be attached to this issue (drag and drop them onto this comment box, or click the "Paste, drop, or click to add files" below this box). You will probably need to zip the files first (GitHub only accepts a limited range of file types - but zip files are accepted).
+2. If the data files are already publicly available, provide the link below. Otherwise, data files can be attached to this issue.
 
 3. Fill out the metadata fields below (delete the lines starting with ">" and replace them with your information).
 
@@ -24,7 +24,7 @@ To suggest a new data set, please provide the data as well as some minimal metad
 -->
 
 **Data**
-> Provide the URL to the data, otherwise attach the data files to this issue by dragging and dropping here.
+> Provide the URL to the data layers, otherwise attach the data files to this issue (drag and drop them onto this comment box, or click the "Paste, drop, or click to add files" below this box). You will probably need to zip the files first - GitHub only accepts a limited range of file types - but zip files are accepted.
 
 **Taxonomic groups covered**
 > Enter the taxonomic groups, including species names if applicable.
