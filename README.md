@@ -58,20 +58,29 @@ Table of current taxonomic coverage:
 | Taxon                           | N layers |
 | :------------------------------ | -------: |
 | Alluroteuthis antarcticus       |        1 |
+| Bathylagus sp.                  |        2 |
 | Bathyteuthis abyssicola         |        1 |
 | Doryteuthis gahi                |        1 |
+| Electrona antarctica            |        2 |
+| Electrona carlsbergi            |        2 |
 | Euphausia crystallorophias      |        2 |
 | Euphausia superba               |        4 |
 | Euphausia vallentini            |        1 |
 | Galiteuthis glacialis           |        1 |
 | Gonatus antarcticus             |        1 |
+| Gymnoscopelus braueri           |        2 |
+| Gymnoscopelus fraseri           |        2 |
+| Gymnoscopelus nicholsi          |        2 |
 | Histioteuthis atlantica         |        1 |
 | Histioteuthis eltaninae         |        1 |
 | Kondakovia longimana            |        1 |
+| Krefftichthys anderssoni        |        2 |
 | Martialia hyadesi               |        1 |
 | Mesonychoteuthis hamiltoni      |        1 |
 | Moroteuthis ingens              |        1 |
 | Moroteuthis robsoni             |        1 |
+| Protomyctophum bolini           |        2 |
+| Protomyctophum tenisoni         |        2 |
 | Psychroteuthis glacialis        |        1 |
 | Slosarczykovia circumantarctica |        1 |
 | Species richness                |        1 |
@@ -85,4 +94,5 @@ The publications from which model outputs have been sourced:
 | Cuzin-Roudy J, Irisson J-O, Penot F, Kawaguchi S, …  |        4 |
 | Green DB, Bestley S, Corney SP, Trebilco R, Lehode … |        2 |
 | Merkel B, Trathan P, Thorpe S, Murphy EJ, Pehlke H … |        2 |
+| Woods BL, Van de Putte AP, Hindell MA, Raymond B, …  |       18 |
 | Xavier JC, Raymond B, Jones DC, Griffiths H (2016) … |       16 |
