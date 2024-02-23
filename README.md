@@ -102,6 +102,7 @@ Table of current taxonomic coverage:
 | Thalassoica antarctica                   |        1 |
 | Thysanoessa macrura                      |        1 |
 | Todarodes filippovae                     |        1 |
+| marine\_predators                        |        1 |
 | mean\_colony\_weighted                   |        1 |
 | mean\_unweighted                         |        1 |
 
@@ -113,5 +114,6 @@ The publications from which model outputs have been sourced:
 | Green DB, Bestley S, Corney SP, Trebilco R, Lehode … |        2 |
 | Hindell MA, Reisinger RR, Ropert-Coudert Y, et al. … |       18 |
 | Merkel B, Trathan P, Thorpe S, Murphy EJ, Pehlke H … |        2 |
+| Reisinger R, Brooks C, Raymond B, Freer J, Cotté C … |        1 |
 | Woods BL, Van de Putte AP, Hindell MA, Raymond B, …  |       18 |
 | Xavier JC, Raymond B, Jones DC, Griffiths H (2016) … |       16 |
