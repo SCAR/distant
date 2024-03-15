@@ -53,8 +53,8 @@ To suggest a new data set, please provide the data as well as some minimal metad
 **Primary publication**
 > The journal paper or other publication describing this data set.
 
-**License governing the use of the data set**
-> E.g. "CC-BY 4.0". If there is no explicit license given, put "Please cite" as a reminder to users that they should be citing all data sources used.
+**Licence governing the use of the data set**
+> If the original layers have already been published, enter the licence that it was released under. If these layers have not previously been published, put "CC-BY 4.0" (that is the license that we will release them under).
 
 **Citation**
 > Only if the primary publication is not the preferred citation for this data set.
