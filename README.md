@@ -154,7 +154,8 @@ Table of current taxonomic coverage:
 | Thysanoessa macrura                      |        1 |
 | Todarodes filippovae                     |        1 |
 | marine predators                         |        5 |
-| <strong>Total</strong>                   |      205 |
+| sea ice algae                            |        5 |
+| <strong>Total</strong>                   |      210 |
 
 The publications from which model outputs have been sourced:
 
@@ -165,8 +166,9 @@ The publications from which model outputs have been sourced:
 | Green DB, Bestley S, Corney SP, Trebilco R, Lehode … |        2 |
 | Hindell MA, Reisinger RR, Ropert-Coudert Y, et al. … |       20 |
 | Merkel B, Trathan P, Thorpe S, Murphy EJ, Pehlke H … |        2 |
+| Pinkerton MH, Hayward A (2021) Estimating variabil … |        5 |
 | Reisinger R, Brooks C, Raymond B, Freer J, Cotté C … |        1 |
 | Viola B, Wienecke B, Green C-P, Corney C, Raymond …  |       16 |
 | Woods BL, Van de Putte AP, Hindell MA, Raymond B, …  |       18 |
 | Xavier JC, Raymond B, Jones DC, Griffiths H (2016) … |       16 |
-| <strong>Total</strong>                               |      205 |
+| <strong>Total</strong>                               |      210 |
