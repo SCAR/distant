@@ -99,8 +99,8 @@ Table of current taxonomic coverage:
 | Diomedea exulans                         |        1 |
 | Doryteuthis gahi                         |        1 |
 | Echinoidea                               |        3 |
-| Electrona antarctica                     |        2 |
-| Electrona carlsbergi                     |        2 |
+| Electrona antarctica                     |        7 |
+| Electrona carlsbergi                     |        7 |
 | Eudyptes chrysolophus.Eudyptes schlegeli |        1 |
 | Euphausia crystallorophias               |        2 |
 | Euphausia superba                        |        4 |
@@ -109,15 +109,17 @@ Table of current taxonomic coverage:
 | Gonatus antarcticus                      |        1 |
 | Goniocidaris (Aspidocidaris) parasol     |        3 |
 | Goniocidaris (Goniocidaris) umbraculum   |        3 |
-| Gymnoscopelus braueri                    |        2 |
-| Gymnoscopelus fraseri                    |        2 |
-| Gymnoscopelus nicholsi                   |        2 |
+| Gymnoscopelus bolini                     |        5 |
+| Gymnoscopelus braueri                    |        7 |
+| Gymnoscopelus fraseri                    |        7 |
+| Gymnoscopelus nicholsi                   |        7 |
+| Gymnoscopelus opisthopterus              |        5 |
 | Histioteuthis atlantica                  |        1 |
 | Histioteuthis eltaninae                  |        1 |
 | Homalocidaris gigantea                   |        3 |
 | Hygrosoma luculentum                     |        3 |
 | Kondakovia longimana                     |        1 |
-| Krefftichthys anderssoni                 |        2 |
+| Krefftichthys anderssoni                 |        7 |
 | Leptonychotes weddellii                  |        1 |
 | Lobodon carcinophaga                     |        1 |
 | Martialia hyadesi                        |        1 |
@@ -133,8 +135,8 @@ Table of current taxonomic coverage:
 | Phoebetria fusca                         |        1 |
 | Phoebetria palpebrata                    |        1 |
 | Procellaria aequinoctialis               |        1 |
-| Protomyctophum bolini                    |        2 |
-| Protomyctophum tenisoni                  |        2 |
+| Protomyctophum bolini                    |        7 |
+| Protomyctophum tenisoni                  |        7 |
 | Pseudechinus huttoni                     |        3 |
 | Pseudechinus magellanicus                |        3 |
 | Pseudechinus marionis                    |        3 |
@@ -155,7 +157,7 @@ Table of current taxonomic coverage:
 | Todarodes filippovae                     |        1 |
 | marine predators                         |        5 |
 | sea ice algae                            |        5 |
-| <strong>Total</strong>                   |      210 |
+| <strong>Total</strong>                   |      260 |
 
 The publications from which model outputs have been sourced:
 
@@ -163,6 +165,7 @@ The publications from which model outputs have been sourced:
 | :--------------------------------------------------- | -------: |
 | Cuzin-Roudy J, Irisson J-O, Penot F, Kawaguchi S, …  |        4 |
 | Fabri-Ruiz S, Danis B, Navarro N, Koubbi P, Laffon … |      126 |
+| Freer JJ, Tarling GA, Collins MA, Partridge JC, Ge … |       50 |
 | Green DB, Bestley S, Corney SP, Trebilco R, Lehode … |        2 |
 | Hindell MA, Reisinger RR, Ropert-Coudert Y, et al. … |       20 |
 | Merkel B, Trathan P, Thorpe S, Murphy EJ, Pehlke H … |        2 |
@@ -171,4 +174,4 @@ The publications from which model outputs have been sourced:
 | Viola B, Wienecke B, Green C-P, Corney C, Raymond …  |       16 |
 | Woods BL, Van de Putte AP, Hindell MA, Raymond B, …  |       18 |
 | Xavier JC, Raymond B, Jones DC, Griffiths H (2016) … |       16 |
-| <strong>Total</strong>                               |      210 |
+| <strong>Total</strong>                               |      260 |
