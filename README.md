@@ -123,7 +123,7 @@ Table of current taxonomic coverage:
 | Leptonychotes weddellii                  |        1 |
 | Lobodon carcinophaga                     |        1 |
 | Martialia hyadesi                        |        1 |
-| Megaptera novaeangliae                   |        1 |
+| Megaptera novaeangliae                   |        6 |
 | Mesonychoteuthis hamiltoni               |        1 |
 | Mirounga leonina                         |        1 |
 | Moroteuthis ingens                       |        1 |
@@ -157,7 +157,7 @@ Table of current taxonomic coverage:
 | Todarodes filippovae                     |        1 |
 | marine predators                         |        5 |
 | sea ice algae                            |        5 |
-| <strong>Total</strong>                   |      260 |
+| <strong>Total</strong>                   |      265 |
 
 The publications from which model outputs have been sourced:
 
@@ -171,7 +171,8 @@ The publications from which model outputs have been sourced:
 | Merkel B, Trathan P, Thorpe S, Murphy EJ, Pehlke H … |        2 |
 | Pinkerton MH, Hayward A (2021) Estimating variabil … |        5 |
 | Reisinger R, Brooks C, Raymond B, Freer J, Cotté C … |        1 |
+| Reisinger RR, Friedlaender AS, Zerbini AN, Palacio … |        5 |
 | Viola B, Wienecke B, Green C-P, Corney C, Raymond …  |       16 |
 | Woods BL, Van de Putte AP, Hindell MA, Raymond B, …  |       18 |
 | Xavier JC, Raymond B, Jones DC, Griffiths H (2016) … |       16 |
-| <strong>Total</strong>                               |      260 |
+| <strong>Total</strong>                               |      265 |
