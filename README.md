@@ -36,7 +36,8 @@ using, and also cite the original data sources used. For example:
 
 Kovacs J (2020) A model of my favourite Southern Ocean species. *Journal
 of Southern Ocean Stuff* **123**:1–10. Data obtained from the SCAR
-Ecological Model Output Repository, <doi:10.xxx/yyyy.zzzz>
+DistAnt Ecological Model Output Repository,
+<doi:10.5281/zenodo.10910076>
 
 </div>
 
