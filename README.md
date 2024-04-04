@@ -9,9 +9,9 @@
 
 ## Overview
 
-This repository and associated R package provides access to a collection
-of ecological model outputs (species distribution and similar models)
-from Antarctica and the Southern Ocean.
+This repository provides access to a collection of ecological model
+outputs (species distribution and similar models) from Antarctica and
+the Southern Ocean.
 
 **Please note:** the inclusion of a layer in this collection is not an
 endorsement of its quality or suitability for your intended purpose.
@@ -26,20 +26,24 @@ original model predictions include uncertainty estimates or multiple
 model output variables. Each output has been kept on its original
 coordinate reference system (map projection) and spatial resolution.
 
+### Data access
+
+Data layers can be downloaded from
+[Zenodo](https://zenodo.org/doi/10.5281/zenodo.10910075) (zipped format,
+one zip per publication) or from [Source
+Cooperative](https://beta.source.coop/repositories/scar/distant/)
+(individual layers, not zipped).
+
 ### Citing
 
 The layers in this collection have been re-released under their original
 license where applicable, or a CC-BY licence otherwise. Please cite when
 using, and also cite the original data sources used. For example:
 
-<div style="padding-left: 2em;">
-
-Kovacs J (2020) A model of my favourite Southern Ocean species. *Journal
-of Southern Ocean Stuff* **123**:1–10. Data obtained from the SCAR
-DistAnt Ecological Model Output Repository,
-<doi:10.5281/zenodo.10910076>
-
-</div>
+> Kovacs J (2020) A model of my favourite Southern Ocean species.
+> *Journal of Southern Ocean Stuff* **123**:1–10. Data obtained from the
+> SCAR DistAnt Ecological Model Output Repository,
+> 10.5281/zenodo.10910075
 
 Individual data sources might have varying licence conditions: consult
 the `licence` field for details.
