@@ -11,7 +11,13 @@
 
 This repository provides access to a collection of ecological model
 outputs (species distribution and similar models) from Antarctica and
-the Southern Ocean.
+the Southern Ocean. It is a project of the SCAR [Expert Group on
+Biodiversity Informatics](https://scar.org/science/egabi/home/) in
+conjunction with
+[ADVANCE](https://www.belspo.be/belspo/impuls/project_en.stm#ADVANCE)
+(Royal Belgian Institute of Natural Sciences) and the Integrated Digital
+East Antarctica program at the [Australian Antarctic
+Division](https://www.antarctica.gov.au/science/).
 
 **Please note:** the inclusion of a layer in this collection is not an
 endorsement of its quality or suitability for your intended purpose.
