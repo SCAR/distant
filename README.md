@@ -55,6 +55,24 @@ collection, or are aware of some that we haven’t yet included, please
 [open an issue and let us
 know](https://github.com/SCAR/distant/issues/new/choose).
 
+## Project contributors
+
+  - Charlie Plasman, Anton Van de Putte (Royal Belgian Institute of
+    Natural Sciences, Université Libre de Bruxelles)
+  - Lucas Krüger (Instituto Antártico Chileno)
+  - Benjamin Merkel (Norwegian Polar Institute)
+  - Ryan Reisinger (University of Southampton)
+  - David Green, Benjamin Viola, Briannyn Woods, (Institute for Marine
+    and Antarctic Studies)
+  - Salomé Fabri-Ruiz (Institut Français de Recherche pour
+    l’Exploitation de la Mer)
+  - Jennifer Freer, Huw Griffiths (British Antarctic Survey)
+  - Jean-Olivier Irisson (Institut de la Mer de Villefranche)
+  - Matt Pinkerton (National Institute of Water and Atmospheric
+    Research)
+  - José Xavier (University of Coimbra, British Antarctic Survey)
+  - Ben Raymond (Australian Antarctic Division)
+
 ## Contents
 
 There is a [table of minimal metadata](metadata.csv) that describes the
