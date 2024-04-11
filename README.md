@@ -61,6 +61,12 @@ collection, or are aware of some that we haven’t yet included, please
 [open an issue and let us
 know](https://github.com/SCAR/distant/issues/new/choose).
 
+The focus for this repository — at least initially — is on circumpolar
+layers that encompass the whole Southern Ocean or whole Antarctic
+continent. However, regional outputs that cover smaller domains will be
+considered, particularly if they relate to a taxon or output variable
+for which there is no circumpolar output.
+
 ## Project contributors
 
   - Charlie Plasman, Anton Van de Putte (Royal Belgian Institute of
@@ -94,6 +100,7 @@ Table of current taxonomic coverage:
 
 | Taxon                                    | N layers |
 | :--------------------------------------- | -------: |
+|                                          |        1 |
 | Abatus (Pseudabatus) nimrodi             |        3 |
 | Abatus cavernosus                        |        3 |
 | Abatus cordatus                          |        3 |
@@ -186,7 +193,7 @@ Table of current taxonomic coverage:
 | Todarodes filippovae                     |        1 |
 | marine predators                         |        5 |
 | sea ice algae                            |        5 |
-| <strong>Total</strong>                   |      265 |
+| <strong>Total</strong>                   |      266 |
 
 The publications from which model outputs have been sourced:
 
@@ -199,9 +206,10 @@ The publications from which model outputs have been sourced:
 | Hindell MA, Reisinger RR, Ropert-Coudert Y, et al. … |       20 |
 | Merkel B, Trathan P, Thorpe S, Murphy EJ, Pehlke H … |        2 |
 | Pinkerton MH, Hayward A (2021) Estimating variabil … |        5 |
+| Raymond B (2014) Pelagic Regionalisation. In: de B … |        1 |
 | Reisinger R, Brooks C, Raymond B, Freer J, Cotté C … |        1 |
 | Reisinger RR, Friedlaender AS, Zerbini AN, Palacio … |        5 |
 | Viola B, Wienecke B, Green C-P, Corney C, Raymond …  |       16 |
 | Woods BL, Van de Putte AP, Hindell MA, Raymond B, …  |       18 |
 | Xavier JC, Raymond B, Jones DC, Griffiths H (2016) … |       16 |
-| <strong>Total</strong>                               |      265 |
+| <strong>Total</strong>                               |      266 |
