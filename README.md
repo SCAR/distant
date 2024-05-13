@@ -100,7 +100,7 @@ Table of current taxonomic coverage:
 
 | Taxon                                    | N layers |
 | :--------------------------------------- | -------: |
-|                                          |        1 |
+|                                          |        5 |
 | Abatus (Pseudabatus) nimrodi             |        3 |
 | Abatus cavernosus                        |        3 |
 | Abatus cordatus                          |        3 |
@@ -191,19 +191,23 @@ Table of current taxonomic coverage:
 | Thalassoica antarctica                   |        1 |
 | Thysanoessa macrura                      |        1 |
 | Todarodes filippovae                     |        1 |
+| alien vascular plants                    |        1 |
 | marine predators                         |        5 |
 | sea ice algae                            |        5 |
-| <strong>Total</strong>                   |      266 |
+| <strong>Total</strong>                   |      271 |
 
 The publications from which model outputs have been sourced:
 
 | Reference                                            | N layers |
 | :--------------------------------------------------- | -------: |
+| Chown SL, Huiskes AHL, Gremmen NJM, Lee JE, Teraud … |        1 |
 | Cuzin-Roudy J, Irisson J-O, Penot F, Kawaguchi S, …  |        4 |
 | Fabri-Ruiz S, Danis B, Navarro N, Koubbi P, Laffon … |      126 |
 | Freer JJ, Tarling GA, Collins MA, Partridge JC, Ge … |       50 |
 | Green DB, Bestley S, Corney SP, Trebilco R, Lehode … |        2 |
 | Hindell MA, Reisinger RR, Ropert-Coudert Y, et al. … |       20 |
+| Lee JR, Raymond B, Bracegirdle TJ, Chadès I, Fulle … |        2 |
+| Leihy RI, Coetzee BWT, Morgan F, Raymond B, Shaw J … |        2 |
 | Merkel B, Trathan P, Thorpe S, Murphy EJ, Pehlke H … |        2 |
 | Pinkerton MH, Hayward A (2021) Estimating variabil … |        5 |
 | Raymond B (2014) Pelagic Regionalisation. In: de B … |        1 |
@@ -212,4 +216,4 @@ The publications from which model outputs have been sourced:
 | Viola B, Wienecke B, Green C-P, Corney C, Raymond …  |       16 |
 | Woods BL, Van de Putte AP, Hindell MA, Raymond B, …  |       18 |
 | Xavier JC, Raymond B, Jones DC, Griffiths H (2016) … |       16 |
-| <strong>Total</strong>                               |      266 |
+| <strong>Total</strong>                               |      271 |
