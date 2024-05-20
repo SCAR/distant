@@ -38,7 +38,10 @@ Data layers can be downloaded from
 [Zenodo](https://zenodo.org/doi/10.5281/zenodo.10910075) (zipped format,
 one zip per publication) or from [Source
 Cooperative](https://beta.source.coop/repositories/scar/distant/)
-(individual layers, not zipped).
+(individual layers, not zipped). For practical reasons, the Source
+Cooperative collection is updated on a rolling basis (layers are added
+as they become available) but Zenodo is updated at less frequent
+intervals.
 
 ### Citing
 
@@ -132,7 +135,8 @@ Table of current taxonomic coverage:
 | Ctenocidaris speciosa                    |        3 |
 | Ctenocidaris spinosa                     |        3 |
 | Dermechinus horridus                     |        3 |
-| Diomedea exulans                         |        1 |
+| Diomedea dabbenena                       |       16 |
+| Diomedea exulans                         |       17 |
 | Doryteuthis gahi                         |        1 |
 | Echinoidea                               |        3 |
 | Electrona antarctica                     |        7 |
@@ -158,6 +162,8 @@ Table of current taxonomic coverage:
 | Krefftichthys anderssoni                 |        7 |
 | Leptonychotes weddellii                  |        1 |
 | Lobodon carcinophaga                     |        1 |
+| Macronectes giganteus                    |       16 |
+| Macronectes halli                        |       16 |
 | Martialia hyadesi                        |        1 |
 | Megaptera novaeangliae                   |        6 |
 | Mesonychoteuthis hamiltoni               |        1 |
@@ -170,7 +176,7 @@ Table of current taxonomic coverage:
 | Pagodroma nivea                          |       16 |
 | Phoebetria fusca                         |        1 |
 | Phoebetria palpebrata                    |        1 |
-| Procellaria aequinoctialis               |        1 |
+| Procellaria aequinoctialis               |       17 |
 | Protomyctophum bolini                    |        7 |
 | Protomyctophum tenisoni                  |        7 |
 | Pseudechinus huttoni                     |        3 |
@@ -186,15 +192,15 @@ Table of current taxonomic coverage:
 | Sterechinus dentifer                     |        3 |
 | Sterechinus diadema                      |        3 |
 | Sterechinus neumayeri                    |        3 |
-| Thalassarche chrysostoma                 |        1 |
-| Thalassarche melanophris                 |        1 |
+| Thalassarche chrysostoma                 |       17 |
+| Thalassarche melanophris                 |       17 |
 | Thalassoica antarctica                   |        1 |
 | Thysanoessa macrura                      |        1 |
 | Todarodes filippovae                     |        1 |
 | alien vascular plants                    |        1 |
 | marine predators                         |        5 |
 | sea ice algae                            |        5 |
-| <strong>Total</strong>                   |      271 |
+| <strong>Total</strong>                   |      383 |
 
 The publications from which model outputs have been sourced:
 
@@ -206,6 +212,7 @@ The publications from which model outputs have been sourced:
 | Freer JJ, Tarling GA, Collins MA, Partridge JC, Ge … |       50 |
 | Green DB, Bestley S, Corney SP, Trebilco R, Lehode … |        2 |
 | Hindell MA, Reisinger RR, Ropert-Coudert Y, et al. … |       20 |
+| Krüger L, Ramos JA, Xavier JC, Grémillet D, Gonzál … |      112 |
 | Lee JR, Raymond B, Bracegirdle TJ, Chadès I, Fulle … |        2 |
 | Leihy RI, Coetzee BWT, Morgan F, Raymond B, Shaw J … |        2 |
 | Merkel B, Trathan P, Thorpe S, Murphy EJ, Pehlke H … |        2 |
@@ -216,4 +223,4 @@ The publications from which model outputs have been sourced:
 | Viola B, Wienecke B, Green C-P, Corney C, Raymond …  |       16 |
 | Woods BL, Van de Putte AP, Hindell MA, Raymond B, …  |       18 |
 | Xavier JC, Raymond B, Jones DC, Griffiths H (2016) … |       16 |
-| <strong>Total</strong>                               |      271 |
+| <strong>Total</strong>                               |      383 |
