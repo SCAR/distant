@@ -124,6 +124,9 @@ Table of current taxonomic coverage:
 | Arbacia dufresnii                        |        3 |
 | Arctocephalus gazella                    |        1 |
 | Austrocidaris canaliculata               |        3 |
+| Balaenoptera bonaerensis                 |       12 |
+| Balaenoptera musculus intermedia         |       12 |
+| Balaenoptera physalus                    |       12 |
 | Bathylagus sp.                           |        2 |
 | Bathyteuthis abyssicola                  |        1 |
 | Brachysternaster chesheri                |        3 |
@@ -165,7 +168,7 @@ Table of current taxonomic coverage:
 | Macronectes giganteus                    |       16 |
 | Macronectes halli                        |       16 |
 | Martialia hyadesi                        |        1 |
-| Megaptera novaeangliae                   |        6 |
+| Megaptera novaeangliae                   |       18 |
 | Mesonychoteuthis hamiltoni               |        1 |
 | Mirounga leonina                         |        1 |
 | Moroteuthis ingens                       |        1 |
@@ -200,7 +203,7 @@ Table of current taxonomic coverage:
 | alien vascular plants                    |        1 |
 | marine predators                         |        5 |
 | sea ice algae                            |        5 |
-| <strong>Total</strong>                   |      383 |
+| <strong>Total</strong>                   |      431 |
 
 The publications from which model outputs have been sourced:
 
@@ -208,6 +211,7 @@ The publications from which model outputs have been sourced:
 | :--------------------------------------------------- | -------: |
 | Chown SL, Huiskes AHL, Gremmen NJM, Lee JE, Teraud … |        1 |
 | Cuzin-Roudy J, Irisson J-O, Penot F, Kawaguchi S, …  |        4 |
+| El-Gabbas A, Van Opzeeland I, Burkhardt E, Boebel …  |       48 |
 | Fabri-Ruiz S, Danis B, Navarro N, Koubbi P, Laffon … |      126 |
 | Freer JJ, Tarling GA, Collins MA, Partridge JC, Ge … |       50 |
 | Green DB, Bestley S, Corney SP, Trebilco R, Lehode … |        2 |
@@ -223,4 +227,4 @@ The publications from which model outputs have been sourced:
 | Viola B, Wienecke B, Green C-P, Corney C, Raymond …  |       16 |
 | Woods BL, Van de Putte AP, Hindell MA, Raymond B, …  |       18 |
 | Xavier JC, Raymond B, Jones DC, Griffiths H (2016) … |       16 |
-| <strong>Total</strong>                               |      383 |
+| <strong>Total</strong>                               |      431 |
