@@ -74,17 +74,19 @@ for which there is no circumpolar output.
 
   - Charlie Plasman, Anton Van de Putte (Royal Belgian Institute of
     Natural Sciences, Université Libre de Bruxelles)
-  - Lucas Krüger (Instituto Antártico Chileno)
-  - Benjamin Merkel (Norwegian Polar Institute)
-  - Ryan Reisinger (University of Southampton)
-  - David Green, Benjamin Viola, Briannyn Woods, (Institute for Marine
-    and Antarctic Studies)
   - Salomé Fabri-Ruiz (Institut Français de Recherche pour
     l’Exploitation de la Mer)
   - Jennifer Freer, Huw Griffiths (British Antarctic Survey)
+  - David Green, Benjamin Viola, Briannyn Woods, (Institute for Marine
+    and Antarctic Studies)
   - Jean-Olivier Irisson (Institut de la Mer de Villefranche)
+  - Lucas Krüger (Instituto Antártico Chileno)
+  - Benjamin Merkel (Norwegian Polar Institute)
   - Matt Pinkerton (National Institute of Water and Atmospheric
     Research)
+  - Ryan Reisinger (University of Southampton)
+  - Giovanni Testa, Andrea Piñones (Centro de Investigación en Dinámica
+    de Ecosistemas Marinos de Altas Latitudes)
   - José Xavier (University of Coimbra, British Antarctic Survey)
   - Ben Raymond (Australian Antarctic Division)
 
@@ -103,7 +105,7 @@ Table of current taxonomic coverage:
 
 | Taxon                                    | N layers |
 | :--------------------------------------- | -------: |
-|                                          |        5 |
+|                                          |        7 |
 | Abatus (Pseudabatus) nimrodi             |        3 |
 | Abatus cavernosus                        |        3 |
 | Abatus cordatus                          |        3 |
@@ -201,9 +203,10 @@ Table of current taxonomic coverage:
 | Thysanoessa macrura                      |        1 |
 | Todarodes filippovae                     |        1 |
 | alien vascular plants                    |        1 |
+| benthic taxa                             |        1 |
 | marine predators                         |        5 |
 | sea ice algae                            |        5 |
-| <strong>Total</strong>                   |      431 |
+| <strong>Total</strong>                   |      434 |
 
 The publications from which model outputs have been sourced:
 
@@ -215,6 +218,7 @@ The publications from which model outputs have been sourced:
 | Fabri-Ruiz S, Danis B, Navarro N, Koubbi P, Laffon … |      126 |
 | Freer JJ, Tarling GA, Collins MA, Partridge JC, Ge … |       50 |
 | Green DB, Bestley S, Corney SP, Trebilco R, Lehode … |        2 |
+| Griffiths HJ, Meijers AJS, Bracegirdle TJ (2017) M … |        1 |
 | Hindell MA, Reisinger RR, Ropert-Coudert Y, et al. … |       20 |
 | Krüger L, Ramos JA, Xavier JC, Grémillet D, Gonzál … |      112 |
 | Lee JR, Raymond B, Bracegirdle TJ, Chadès I, Fulle … |        2 |
@@ -224,7 +228,8 @@ The publications from which model outputs have been sourced:
 | Raymond B (2014) Pelagic Regionalisation. In: de B … |        1 |
 | Reisinger R, Brooks C, Raymond B, Freer J, Cotté C … |        1 |
 | Reisinger RR, Friedlaender AS, Zerbini AN, Palacio … |        5 |
+| Testa G, Piñones A, Castro LR (2021) Physical and …  |        2 |
 | Viola B, Wienecke B, Green C-P, Corney C, Raymond …  |       16 |
 | Woods BL, Van de Putte AP, Hindell MA, Raymond B, …  |       18 |
 | Xavier JC, Raymond B, Jones DC, Griffiths H (2016) … |       16 |
-| <strong>Total</strong>                               |      431 |
+| <strong>Total</strong>                               |      434 |
