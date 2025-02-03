@@ -77,7 +77,7 @@ for which there is no circumpolar output.
   - Salomé Fabri-Ruiz (Institut Français de Recherche pour
     l’Exploitation de la Mer)
   - Jennifer Freer, Huw Griffiths (British Antarctic Survey)
-  - David Green, Benjamin Viola, Briannyn Woods, (Institute for Marine
+  - David Green, Benjamin Viola, Briannyn Woods (Institute for Marine
     and Antarctic Studies)
   - Jean-Olivier Irisson (Institut de la Mer de Villefranche)
   - Lucas Krüger (Instituto Antártico Chileno)
@@ -87,8 +87,9 @@ for which there is no circumpolar output.
   - Ryan Reisinger (University of Southampton)
   - Giovanni Testa, Andrea Piñones (Centro de Investigación en Dinámica
     de Ecosistemas Marinos de Altas Latitudes)
+  - Anikó Tóth (University of New South Wales)
   - José Xavier (University of Coimbra, British Antarctic Survey)
-  - Ben Raymond (Australian Antarctic Division)
+  - Ben Raymond, Aleks Terauds (Australian Antarctic Division)
 
 ## Contents
 
@@ -114,6 +115,7 @@ Table of current taxonomic coverage:
 | Abatus koehleri                          |        3 |
 | Abatus philippii                         |        3 |
 | Abatus shackletoni                       |        3 |
+| Acarosporaceae                           |        1 |
 | Alluroteuthis antarcticus                |        1 |
 | Amphipneustes lorioli                    |        3 |
 | Amphipneustes rostratus                  |        3 |
@@ -126,6 +128,7 @@ Table of current taxonomic coverage:
 | Arbacia dufresnii                        |        3 |
 | Arctocephalus gazella                    |        1 |
 | Austrocidaris canaliculata               |        3 |
+| Bacidiaceae                              |        1 |
 | Balaenoptera bonaerensis                 |       12 |
 | Balaenoptera musculus intermedia         |       12 |
 | Balaenoptera physalus                    |       12 |
@@ -133,6 +136,10 @@ Table of current taxonomic coverage:
 | Bathyteuthis abyssicola                  |        1 |
 | Brachysternaster chesheri                |        3 |
 | Brisaster antarcticus                    |        3 |
+| Bryales                                  |        1 |
+| Candelariaceae                           |        1 |
+| Chlorophyta                              |        1 |
+| Cladoniaceae                             |        1 |
 | Ctenocidaris (Eurocidaris) nutrix        |        3 |
 | Ctenocidaris geliberti                   |        3 |
 | Ctenocidaris perrieri                    |        3 |
@@ -140,12 +147,14 @@ Table of current taxonomic coverage:
 | Ctenocidaris speciosa                    |        3 |
 | Ctenocidaris spinosa                     |        3 |
 | Dermechinus horridus                     |        3 |
+| Dicranales                               |        1 |
 | Diomedea dabbenena                       |       16 |
 | Diomedea exulans                         |       17 |
 | Doryteuthis gahi                         |        1 |
 | Echinoidea                               |        3 |
 | Electrona antarctica                     |        7 |
 | Electrona carlsbergi                     |        7 |
+| Entomobryomorpha                         |        1 |
 | Eudyptes chrysolophus.Eudyptes schlegeli |        1 |
 | Euphausia crystallorophias               |        2 |
 | Euphausia superba                        |        4 |
@@ -163,8 +172,10 @@ Table of current taxonomic coverage:
 | Histioteuthis eltaninae                  |        1 |
 | Homalocidaris gigantea                   |        3 |
 | Hygrosoma luculentum                     |        3 |
+| Hypnales                                 |        1 |
 | Kondakovia longimana                     |        1 |
 | Krefftichthys anderssoni                 |        7 |
+| Lecanoraceae                             |        1 |
 | Leptonychotes weddellii                  |        1 |
 | Lobodon carcinophaga                     |        1 |
 | Macronectes giganteus                    |       16 |
@@ -172,15 +183,22 @@ Table of current taxonomic coverage:
 | Martialia hyadesi                        |        1 |
 | Megaptera novaeangliae                   |       18 |
 | Mesonychoteuthis hamiltoni               |        1 |
+| Mesostigmata                             |        1 |
 | Mirounga leonina                         |        1 |
 | Moroteuthis ingens                       |        1 |
 | Moroteuthis robsoni                      |        1 |
+| Nematoda                                 |        1 |
 | Notocidaris gaussensis                   |        3 |
 | Notocidaris mortenseni                   |        3 |
 | Notocidaris platyacantha                 |        3 |
+| Ochrophyta                               |        1 |
 | Pagodroma nivea                          |       16 |
+| Parmeliaceae                             |        1 |
 | Phoebetria fusca                         |        1 |
 | Phoebetria palpebrata                    |        1 |
+| Physciaceae                              |        1 |
+| Polytrichales                            |        1 |
+| Pottiales                                |        1 |
 | Procellaria aequinoctialis               |       17 |
 | Protomyctophum bolini                    |        7 |
 | Protomyctophum tenisoni                  |        7 |
@@ -190,23 +208,32 @@ Table of current taxonomic coverage:
 | Pseudechinus novaezealandiae             |        3 |
 | Psychroteuthis glacialis                 |        1 |
 | Pygoscelis adeliae                       |        1 |
+| Pygoscelis antarcticus                   |        1 |
+| Pygoscelis papua                         |        1 |
+| Rhizocarpaceae                           |        1 |
 | Rhynchocidaris triplopora                |        3 |
+| Rotifera                                 |        1 |
+| Sarcoptiformes                           |        1 |
 | Schizocosmus abatoides                   |        3 |
 | Slosarczykovia circumantarctica          |        1 |
 | Species richness                         |        1 |
 | Sterechinus dentifer                     |        3 |
 | Sterechinus diadema                      |        3 |
 | Sterechinus neumayeri                    |        3 |
+| Stereocaulaceae                          |        1 |
+| Teloschistaceae                          |        1 |
 | Thalassarche chrysostoma                 |       17 |
 | Thalassarche melanophris                 |       17 |
 | Thalassoica antarctica                   |        1 |
 | Thysanoessa macrura                      |        1 |
 | Todarodes filippovae                     |        1 |
+| Trombidiformes                           |        1 |
 | alien vascular plants                    |        1 |
 | benthic taxa                             |        1 |
 | marine predators                         |        5 |
 | sea ice algae                            |        5 |
-| <strong>Total</strong>                   |      434 |
+| terrestrial ecosystems                   |        3 |
+| <strong>Total</strong>                   |      462 |
 
 The publications from which model outputs have been sourced:
 
@@ -228,8 +255,10 @@ The publications from which model outputs have been sourced:
 | Raymond B (2014) Pelagic Regionalisation. In: de B … |        1 |
 | Reisinger R, Brooks C, Raymond B, Freer J, Cotté C … |        1 |
 | Reisinger RR, Friedlaender AS, Zerbini AN, Palacio … |        5 |
+| Terauds A, Lee JR, Robertson T, Wauchope HS, Raymo … |       25 |
 | Testa G, Piñones A, Castro LR (2021) Physical and …  |        2 |
+| Tóth AB, Terauds A, Chown SL, Hughes KA, Convey P, … |        3 |
 | Viola B, Wienecke B, Green C-P, Corney C, Raymond …  |       16 |
 | Woods BL, Van de Putte AP, Hindell MA, Raymond B, …  |       18 |
 | Xavier JC, Raymond B, Jones DC, Griffiths H (2016) … |       16 |
-| <strong>Total</strong>                               |      434 |
+| <strong>Total</strong>                               |      462 |
