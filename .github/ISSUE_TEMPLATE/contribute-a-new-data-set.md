@@ -14,7 +14,7 @@ INSTRUCTIONS TO CONTRIBUTORS - PLEASE READ
 
 To suggest a new data set, please provide the data as well as some minimal metadata.
 
-1. Please check the existing issues list at  https://github.com/SCAR/distant/issues?q= first to make sure that this dataset has not already been considered.
+1. Please check the existing issues list (including closed issues) at https://github.com/SCAR/distant/issues?q=is%3Aissue to make sure that this dataset has not already been considered.
 
 2. If the data files are already publicly available, provide the link below. Otherwise, data files can be attached to this issue.
 
@@ -22,6 +22,8 @@ To suggest a new data set, please provide the data as well as some minimal metad
 
   The purpose of this metadata is to allow users to quickly filter the collection and identify data sets likely to be suitable for their needs. We are not going to duplicate all of the metadata and background information provided by the data set's primary publication: we expect that users will consult that reference material directly. 
 -->
+**It's a new data set**
+- [ ] I have checked the [existing issues](https://github.com/SCAR/distant/issues?q=is%3Aissue). This is a new data set.
 
 **Data**
 > Provide the URL to the data layers, otherwise attach the data files to this issue (drag and drop them onto this comment box, or click the "Paste, drop, or click to add files" below this box). You will probably need to zip the files first - GitHub only accepts a limited range of file types - but zip files are accepted.
