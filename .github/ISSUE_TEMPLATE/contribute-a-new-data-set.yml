@@ -13,9 +13,8 @@ body:
     id: is-new
     attributes:
       label: New data set
-      description: I have checked the [existing issues](https://github.com/SCAR/distant/issues?q=is%3Aissue). This is a new data set.
       options:
-        - label: It's a new data set
+        - label: I have checked the [existing issues](https://github.com/SCAR/distant/issues?q=is%3Aissue). This is a new data set.
           required: true
   - type: input
     id: data
