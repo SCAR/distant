@@ -7,9 +7,7 @@ body:
     attributes:
       value: |
         Thank you for helping to make DistAnt better by suggesting a new data set.
-  - type: markdown
-    attributes:
-      value: |
+
         Please provide the data as well as some minimal metadata. The purpose of this metadata is to allow users to quickly filter the collection and identify data sets likely to be suitable for their needs. We are not going to duplicate all of the metadata and background information provided by the data set's primary publication - we expect that users will consult that reference material directly.
     - type: checkboxes
     id: is-new
