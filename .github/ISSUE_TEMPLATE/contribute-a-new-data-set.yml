@@ -1,0 +1,97 @@
+name: Contribute a new data set
+description: Use this template to suggest new data layers to be added to the repository.
+title: "New data set: [AUTHOR YEAR]"
+labels: ["enhancement"]
+body:
+  - type: checkboxes
+    id: is-new
+    attributes:
+      label: New data set
+      description: I have checked the [existing issues](https://github.com/SCAR/distant/issues?q=is%3Aissue). This is a new data set.
+      options:
+        - label: It's a new data set
+          required: true
+  - type: input
+    id: data
+    attributes:
+      label: Data
+      description: Provide the URL to the data layers, otherwise attach the data files to this issue (drag and drop them onto this comment box, or click the "Paste, drop, or click to add files" below this box). You will probably need to zip the files first - GitHub only accepts a limited range of file types - but zip files are accepted.
+    validations:
+      required: false
+  - type: textarea
+    id: taxonomic-groups
+    attributes:
+      label: Taxonomic groups covered
+      description: Enter the taxonomic groups, including species names if applicable.
+    validations:
+      required: false
+  - type: input
+    id: data-type
+    attributes:
+      label: Input data type
+      description: e.g. "animal tracking", "net trawls", "human observation"
+    validations:
+      required: false
+  - type: input
+    id: modelling-method
+    attributes:
+      label: Modelling method
+      description: A brief note on the modelling method used, e.g. "MaxEnt", "boosted regression tree", "random forest", "generalized additive model".
+    validations:
+      required: false
+  - type: input
+    id: output-type
+    attributes:
+      label: Type of output
+      description: e.g. "probability of presence", "abundance"
+    validations:
+      required: false
+  - type: textarea
+    id: performance-score
+    attributes:
+      label: Model performance score and the measure used
+      description: This is helpful to give users some indication of the accuracy/reliability of the outputs. e.g. "AUC 0.95", "deviance explained 0.677"
+    validations:
+      required: false
+  - type: textarea
+    id: uncertainty-type
+    attributes:
+      label: Uncertainty type
+      description: e.g. "Not provided" if no estimates of uncertainty have been provided, "CV" for cross-validation.
+    validations:
+      required: false
+  - type: input
+    id: code-url
+    attributes:
+      label: Code URL
+      description: URL to a repository holding code used to generate or otherwise related to this data set, if applicable.
+    validations:
+      required: false
+  - type: textarea
+    id: usage-notes
+    attributes:
+      label: Usage notes
+      description: If you are familiar with these data layers, and have notes on usage that are not obvious from the primary publication that you think would be helpful to other users, please include them here.
+    validations:
+      required: false
+  - type: textarea
+    id: primary-publication
+    attributes:
+      label: Primary publication
+      description: The journal paper or other publication describing this data set.
+    validations:
+      required: false
+  - type: input
+    id: license
+    attributes:
+      label: Licence governing the use of the data set
+      description: If the original layers have already been published, enter the licence that it was released under. If these layers have not previously been published, put "CC-BY 4.0" (that is the license that we will release them under).
+    validations:
+      required: false
+  - type: textarea
+    id: citation
+    attributes:
+      label: Citation
+      description: Only if the primary publication is not the preferred citation for this data set.
+    validations:
+      required: false
