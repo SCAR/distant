@@ -4,7 +4,6 @@
 # DistAnt
 
 <!-- badges: start -->
-
 <!-- badges: end -->
 
 ## Overview
@@ -37,11 +36,10 @@ coordinate reference system (map projection) and spatial resolution.
 Data layers can be downloaded from
 [Zenodo](https://zenodo.org/doi/10.5281/zenodo.10910075) (zipped format,
 one zip per publication) or from [Source
-Cooperative](https://source.coop/repositories/scar/distant)
-(individual layers, not zipped). For practical reasons, the Source
-Cooperative collection is updated on a rolling basis (layers are added
-as they become available) but Zenodo is updated at less frequent
-intervals.
+Cooperative](https://source.coop/repositories/scar/distant) (individual
+layers, not zipped). For practical reasons, the Source Cooperative
+collection is updated on a rolling basis (layers are added as they
+become available) but Zenodo is updated at less frequent intervals.
 
 ### Citing
 
@@ -57,7 +55,7 @@ using, and also cite the original data sources used. For example:
 Individual data sources might have varying licence conditions: consult
 the `licence` field for details.
 
-## Contribute data\!
+## Contribute data!
 
 If you have generated some model outputs that would be suitable for this
 collection, or are aware of some that we haven’t yet included, please
@@ -72,24 +70,23 @@ for which there is no circumpolar output.
 
 ## Project contributors
 
-  - Charlie Plasman, Anton Van de Putte (Royal Belgian Institute of
-    Natural Sciences, Université Libre de Bruxelles)
-  - Salomé Fabri-Ruiz (Institut Français de Recherche pour
-    l’Exploitation de la Mer)
-  - Jennifer Freer, Huw Griffiths (British Antarctic Survey)
-  - David Green, Benjamin Viola, Briannyn Woods (Institute for Marine
-    and Antarctic Studies)
-  - Jean-Olivier Irisson (Institut de la Mer de Villefranche)
-  - Lucas Krüger (Instituto Antártico Chileno)
-  - Benjamin Merkel (Norwegian Polar Institute)
-  - Matt Pinkerton (National Institute of Water and Atmospheric
-    Research)
-  - Ryan Reisinger (University of Southampton)
-  - Giovanni Testa, Andrea Piñones (Centro de Investigación en Dinámica
-    de Ecosistemas Marinos de Altas Latitudes)
-  - Anikó Tóth (University of New South Wales)
-  - José Xavier (University of Coimbra, British Antarctic Survey)
-  - Ben Raymond, Aleks Terauds (Australian Antarctic Division)
+- Charlie Plasman, Anton Van de Putte (Royal Belgian Institute of
+  Natural Sciences, Université Libre de Bruxelles)
+- Salomé Fabri-Ruiz (Institut Français de Recherche pour l’Exploitation
+  de la Mer)
+- Jennifer Freer, Huw Griffiths (British Antarctic Survey)
+- David Green, Benjamin Viola, Briannyn Woods (Institute for Marine and
+  Antarctic Studies)
+- Jean-Olivier Irisson (Institut de la Mer de Villefranche)
+- Lucas Krüger (Instituto Antártico Chileno)
+- Benjamin Merkel (Norwegian Polar Institute)
+- Matt Pinkerton (National Institute of Water and Atmospheric Research)
+- Ryan Reisinger (University of Southampton)
+- Giovanni Testa, Andrea Piñones (Centro de Investigación en Dinámica de
+  Ecosistemas Marinos de Altas Latitudes)
+- Anikó Tóth (University of New South Wales)
+- José Xavier (University of Coimbra, British Antarctic Survey)
+- Ben Raymond, Aleks Terauds (Australian Antarctic Division)
 
 ## Contents
 
@@ -105,8 +102,8 @@ detail (see the layer’s `reference` entry).
 Table of current taxonomic coverage:
 
 | Taxon                                    | N layers |
-| :--------------------------------------- | -------: |
-|                                          |        7 |
+|:-----------------------------------------|---------:|
+|                                          |        8 |
 | Abatus (Pseudabatus) nimrodi             |        3 |
 | Abatus cavernosus                        |        3 |
 | Abatus cordatus                          |        3 |
@@ -187,6 +184,9 @@ Table of current taxonomic coverage:
 | Mirounga leonina                         |        1 |
 | Moroteuthis ingens                       |        1 |
 | Moroteuthis robsoni                      |        1 |
+| Multiple Antarctic fishes                |        1 |
+| Multiple Sub-Antarctic fishes            |        1 |
+| Multiple broadly Antarctic fishes        |        1 |
 | Nematoda                                 |        1 |
 | Notocidaris gaussensis                   |        3 |
 | Notocidaris mortenseni                   |        3 |
@@ -215,6 +215,7 @@ Table of current taxonomic coverage:
 | Rotifera                                 |        1 |
 | Sarcoptiformes                           |        1 |
 | Schizocosmus abatoides                   |        3 |
+| Scleractinia                             |        3 |
 | Slosarczykovia circumantarctica          |        1 |
 | Species richness                         |        1 |
 | Sterechinus dentifer                     |        3 |
@@ -233,32 +234,34 @@ Table of current taxonomic coverage:
 | marine predators                         |        5 |
 | sea ice algae                            |        5 |
 | terrestrial ecosystems                   |        3 |
-| <strong>Total</strong>                   |      462 |
+| <strong>Total</strong>                   |      469 |
 
 The publications from which model outputs have been sourced:
 
-| Reference                                            | N layers |
-| :--------------------------------------------------- | -------: |
-| Chown SL, Huiskes AHL, Gremmen NJM, Lee JE, Teraud … |        1 |
-| Cuzin-Roudy J, Irisson J-O, Penot F, Kawaguchi S, …  |        4 |
-| El-Gabbas A, Van Opzeeland I, Burkhardt E, Boebel …  |       48 |
-| Fabri-Ruiz S, Danis B, Navarro N, Koubbi P, Laffon … |      126 |
-| Freer JJ, Tarling GA, Collins MA, Partridge JC, Ge … |       50 |
-| Green DB, Bestley S, Corney SP, Trebilco R, Lehode … |        2 |
-| Griffiths HJ, Meijers AJS, Bracegirdle TJ (2017) M … |        1 |
-| Hindell MA, Reisinger RR, Ropert-Coudert Y, et al. … |       20 |
-| Krüger L, Ramos JA, Xavier JC, Grémillet D, Gonzál … |      112 |
-| Lee JR, Raymond B, Bracegirdle TJ, Chadès I, Fulle … |        2 |
-| Leihy RI, Coetzee BWT, Morgan F, Raymond B, Shaw J … |        2 |
-| Merkel B, Trathan P, Thorpe S, Murphy EJ, Pehlke H … |        2 |
-| Pinkerton MH, Hayward A (2021) Estimating variabil … |        5 |
-| Raymond B (2014) Pelagic Regionalisation. In: de B … |        1 |
-| Reisinger R, Brooks C, Raymond B, Freer J, Cotté C … |        1 |
-| Reisinger RR, Friedlaender AS, Zerbini AN, Palacio … |        5 |
-| Terauds A, Lee JR, Robertson T, Wauchope HS, Raymo … |       25 |
-| Testa G, Piñones A, Castro LR (2021) Physical and …  |        2 |
-| Tóth AB, Terauds A, Chown SL, Hughes KA, Convey P, … |        3 |
-| Viola B, Wienecke B, Green C-P, Corney C, Raymond …  |       16 |
-| Woods BL, Van de Putte AP, Hindell MA, Raymond B, …  |       18 |
-| Xavier JC, Raymond B, Jones DC, Griffiths H (2016) … |       16 |
-| <strong>Total</strong>                               |      462 |
+| Reference                                              | N layers |
+|:-------------------------------------------------------|---------:|
+| Chaabani S, López-González PJ, Casado-Amezua P, Pe …   |        3 |
+| Chown SL, Huiskes AHL, Gremmen NJM, Lee JE, Teraud …   |        1 |
+| Cuzin-Roudy J, Irisson J-O, Penot F, Kawaguchi S, …    |        4 |
+| El-Gabbas A, Van Opzeeland I, Burkhardt E, Boebel …    |       48 |
+| Fabri-Ruiz S, Danis B, Navarro N, Koubbi P, Laffon …   |      126 |
+| Freer JJ, Tarling GA, Collins MA, Partridge JC, Ge …   |       50 |
+| Green DB, Bestley S, Corney SP, Trebilco R, Lehode …   |        2 |
+| Griffiths HJ, Meijers AJS, Bracegirdle TJ (2017) M …   |        1 |
+| Hindell MA, Reisinger RR, Ropert-Coudert Y, et al. …   |       20 |
+| Krüger L, Ramos JA, Xavier JC, Grémillet D, Gonzál …   |      112 |
+| Lee JR, Raymond B, Bracegirdle TJ, Chadès I, Fulle …   |        2 |
+| Leihy RI, Coetzee BWT, Morgan F, Raymond B, Shaw J …   |        2 |
+| Merkel B, Trathan P, Thorpe S, Murphy EJ, Pehlke H …   |        2 |
+| Pinkerton MH, Hayward A (2021) Estimating variabil …   |        5 |
+| Raymond B (2014) Pelagic Regionalisation. In: de B …   |        1 |
+| Reisinger R, Brooks C, Raymond B, Freer J, Cotté C …   |        1 |
+| Reisinger RR, Friedlaender AS, Zerbini AN, Palacio …   |        5 |
+| Terauds A, Lee JR, Robertson T, Wauchope HS, Raymo …   |       25 |
+| Testa G, Piñones A, Castro LR (2021) Physical and …    |        2 |
+| Tóth AB, Terauds A, Chown SL, Hughes KA, Convey P, …   |        3 |
+| Viola B, Wienecke B, Green C-P, Corney C, Raymond …    |       16 |
+| Woods BL, Van de Putte AP, Hindell MA, Raymond B, …    |       21 |
+| Xavier JC, Raymond B, Jones DC, Griffiths H (2016) …   |       16 |
+| <https://visibleearth.nasa.gov/images/147190/explor> … |        1 |
+| <strong>Total</strong>                                 |      469 |
