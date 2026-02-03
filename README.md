@@ -103,7 +103,7 @@ Table of current taxonomic coverage:
 
 | Taxon                                    | N layers |
 |:-----------------------------------------|---------:|
-|                                          |        8 |
+|                                          |       10 |
 | Abatus (Pseudabatus) nimrodi             |        3 |
 | Abatus cavernosus                        |        3 |
 | Abatus cordatus                          |        3 |
@@ -175,6 +175,7 @@ Table of current taxonomic coverage:
 | Lecanoraceae                             |        1 |
 | Leptonychotes weddellii                  |        1 |
 | Lobodon carcinophaga                     |        1 |
+| Lobodon carcinophagus                    |        2 |
 | Macronectes giganteus                    |       16 |
 | Macronectes halli                        |       16 |
 | Martialia hyadesi                        |        1 |
@@ -187,6 +188,7 @@ Table of current taxonomic coverage:
 | Multiple Antarctic fishes                |        1 |
 | Multiple Sub-Antarctic fishes            |        1 |
 | Multiple broadly Antarctic fishes        |        1 |
+| Myctophidae                              |        7 |
 | Nematoda                                 |        1 |
 | Notocidaris gaussensis                   |        3 |
 | Notocidaris mortenseni                   |        3 |
@@ -231,10 +233,12 @@ Table of current taxonomic coverage:
 | Trombidiformes                           |        1 |
 | alien vascular plants                    |        1 |
 | benthic taxa                             |        1 |
+| green snow algae                         |        2 |
 | marine predators                         |        5 |
+| red snow algae                           |        2 |
 | sea ice algae                            |        5 |
 | terrestrial ecosystems                   |        3 |
-| <strong>Total</strong>                   |      469 |
+| <strong>Total</strong>                   |      484 |
 
 The publications from which model outputs have been sourced:
 
@@ -245,7 +249,9 @@ The publications from which model outputs have been sourced:
 | Cuzin-Roudy J, Irisson J-O, Penot F, Kawaguchi S, …    |        4 |
 | El-Gabbas A, Van Opzeeland I, Burkhardt E, Boebel …    |       48 |
 | Fabri-Ruiz S, Danis B, Navarro N, Koubbi P, Laffon …   |      126 |
+| Fierro-Arcos D, Corney C, Meyer A, Hayashida H, Ki …   |        2 |
 | Freer JJ, Tarling GA, Collins MA, Partridge JC, Ge …   |       50 |
+| Gray AM, Thomson AI, Colesie C, Convey P, Fretwell …   |        4 |
 | Green DB, Bestley S, Corney SP, Trebilco R, Lehode …   |        2 |
 | Griffiths HJ, Meijers AJS, Bracegirdle TJ (2017) M …   |        1 |
 | Hindell MA, Reisinger RR, Ropert-Coudert Y, et al. …   |       20 |
@@ -257,11 +263,13 @@ The publications from which model outputs have been sourced:
 | Raymond B (2014) Pelagic Regionalisation. In: de B …   |        1 |
 | Reisinger R, Brooks C, Raymond B, Freer J, Cotté C …   |        1 |
 | Reisinger RR, Friedlaender AS, Zerbini AN, Palacio …   |        5 |
+| Rintz CL, Koubbi P, Ramiro-Sánchez B, Azarian C, C …   |        7 |
 | Terauds A, Lee JR, Robertson T, Wauchope HS, Raymo …   |       25 |
 | Testa G, Piñones A, Castro LR (2021) Physical and …    |        2 |
 | Tóth AB, Terauds A, Chown SL, Hughes KA, Convey P, …   |        3 |
 | Viola B, Wienecke B, Green C-P, Corney C, Raymond …    |       16 |
 | Woods BL, Van de Putte AP, Hindell MA, Raymond B, …    |       21 |
 | Xavier JC, Raymond B, Jones DC, Griffiths H (2016) …   |       16 |
+| <https://ibcso.org/>                                   |        2 |
 | <https://visibleearth.nasa.gov/images/147190/explor> … |        1 |
-| <strong>Total</strong>                                 |      469 |
+| <strong>Total</strong>                                 |      484 |
