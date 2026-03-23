@@ -36,10 +36,10 @@ coordinate reference system (map projection) and spatial resolution.
 Data layers can be downloaded from
 [Zenodo](https://zenodo.org/doi/10.5281/zenodo.10910075) (zipped format,
 one zip per publication) or from [Source
-Cooperative](https://source.coop/repositories/scar/distant) (individual
-layers, not zipped). For practical reasons, the Source Cooperative
-collection is updated on a rolling basis (layers are added as they
-become available) but Zenodo is updated at less frequent intervals.
+Cooperative](https://source.coop/scar/distant) (individual layers, not
+zipped). For practical reasons, the Source Cooperative collection is
+updated on a rolling basis (layers are added as they become available)
+but Zenodo is updated at less frequent intervals.
 
 ### Citing
 
